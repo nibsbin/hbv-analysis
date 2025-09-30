@@ -137,3 +137,6 @@ __pypackages__/
 
 # Logs
 *.log
+
+# Generated test images
+*.png
